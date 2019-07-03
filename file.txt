@@ -5,3 +5,4 @@ Will try:
 alias gp="git add .
 git commit -m 'update repo'
 git push"
+But with passphrase as well
