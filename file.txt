@@ -1,2 +1,5 @@
 I am testing using aliases, as described here:
 https://jonsuh.com/blog/bash-command-line-shortcuts/
+
+Will try:
+alias gp="git add .\ngit commit -m 'update repo'\ngit push"
